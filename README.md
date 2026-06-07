@@ -80,10 +80,10 @@ With a strong foundation in **Python, Machine Learning, NLP, and Deep Learning**
 <tr>
 <td width="50%">
 
-### 🛒 Customer Shopping Behavior Analysis
-**`Python` `Pandas` `MySQL` `Power BI`**
+### 🏦 Loan Prediction System
+**`Python` `Machine Learning` `Streamlit` `SMOTE`**
 
-Analyzed large retail datasets to uncover patterns in customer purchase behavior. Built interactive **Power BI dashboards** revealing customer segments, high-value products, and seasonal sales trends.
+Built an ML-based loan approval prediction system using **Logistic Regression & KNN** with full preprocessing pipeline — SMOTE for class balancing, feature engineering, scaling, feature selection, and model optimization for production-ready accuracy.
 
 </td>
 <td width="50%">
@@ -120,10 +120,18 @@ Built a **KNN-based personalized diet recommendation engine** with feature scali
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=princevani&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFD700&currStreakLabel=FF6B6B" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=princevani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD700" width="48%" />
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=princevani&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFD700&currStreakLabel=FF6B6B&sideLabels=FF6B6B&dates=888888" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princevani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B" width="40%" />
+<!-- General Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=princevani&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD700&text_color=c9d1d9" width="48%" />
+
+</div>
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=princevani&bg_color=0D1117&color=FF6B6B&line=8A2BE2&point=FFD700&area=true&hide_border=true" width="96%" />
 
 </div>
 
