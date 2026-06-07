@@ -1,15 +1,22 @@
-<!-- Animated Header -->
+<!-- Header Banner -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Prince+Vani+👋;Aspiring+Data+Scientist+%F0%9F%A4%96;Machine+Learning+%7C+NLP+%7C+Deep+Learning;Turning+Raw+Data+into+Real+Insights+📊;Always+Learning.+Always+Building.+🚀)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8A2BE2,50:FF6B6B,100:FFD700&height=200&section=header&text=Prince%20Vani&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Problem%20Solver&descSize=18&descAlignY=85&descColor=ffffffcc" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0077FF&height=120&section=header&text=&fontColor=ffffff&fontSize=40&animation=fadeIn" width="100%"/>
+<!-- Typing SVG - different style -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2500&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=🔬+Exploring+Data+Science+%26+AI;🧠+Machine+Learning+%7C+NLP+%7C+Deep+Learning;📊+Turning+Numbers+into+Narratives;🐍+Python+Enthusiast+%26+LeetCode+Grinder;🚀+Building+Smart+Solutions+for+Real+Problems)](https://git.io/typing-svg)
+
+<br/>
+
+![](https://img.shields.io/badge/Focus-Data%20Science-FF6B6B?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Learning-GenAI%20%26%20LLMs-8A2BE2?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Open%20To-Opportunities-FFD700?style=flat-square&labelColor=1a1a2e)
 
 </div>
 
 ---
 
-<img align="right" alt="Data Science GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Data Science" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 ## 🧠 About Me
 
@@ -40,7 +47,7 @@ With a strong foundation in **Python, Machine Learning, NLP, and Deep Learning**
 ### 🤖 ML / AI / Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-00C0FF?style=for-the-badge&logo=buffer&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=buffer&logoColor=white)
 
 ### 📊 Data & Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -113,10 +120,10 @@ Built a **KNN-based personalized diet recommendation engine** with feature scali
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=princevani&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB3&fire=00C0FF&currStreakLabel=00FFB3" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=princevani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00C0FF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=princevani&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFD700&currStreakLabel=FF6B6B" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=princevani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD700" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princevani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princevani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B" width="40%" />
 
 </div>
 
@@ -137,9 +144,9 @@ Built a **KNN-based personalized diet recommendation engine** with feature scali
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00FFB3&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:1a1a2e,50:8A2BE2,100:FF6B6B&height=120&section=footer&reversal=false" width="100%"/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=princevani&color=00FFB3&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=princevani&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
 
 *"Data is the new oil — I'm here to refine it."* 🔬
 
