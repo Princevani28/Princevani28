@@ -129,10 +129,6 @@ Built a **KNN-based personalized diet recommendation engine** with feature scali
 </div>
 
 <div align="center">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=princevani&bg_color=0D1117&color=FF6B6B&line=8A2BE2&point=FFD700&area=true&hide_border=true" width="96%" />
-
 </div>
 
 ---
