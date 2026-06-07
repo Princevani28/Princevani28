@@ -126,11 +126,6 @@ Built a **KNN-based personalized diet recommendation engine** with feature scali
 <!-- General Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=princevani&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD700&text_color=c9d1d9" width="48%" />
 
-</div>
-
-<div align="center">
-</div>
-
 ---
 
 ## 🌐 Let's Connect
